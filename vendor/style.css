@@ -1,0 +1,29 @@
+div {
+	border-width: 5px;
+	border-style: solid;
+	text-align: center;
+	padding: 5px;
+	box-sizing: border-box;
+}
+.header {
+	border-color: #b2eac1;
+	letter-spacing: 6px;
+	color: #477252;
+}
+.header h1 {
+	font-size: 55px;
+}
+.container {
+	border: none;
+	padding: 1px;
+}
+
+.content {
+	border-color: #477252;
+	background-color: #e3f7e8;
+	height: auto;
+}
+.footer {
+	border-color: #b2eac1;
+	color: #477252;
+}
